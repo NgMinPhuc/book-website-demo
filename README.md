@@ -2,6 +2,8 @@
 
 Product-level documentation for Bookstore: what the product does, who it serves, and how the system is put together. For implementation details, see the [Backend](../BE/README.md) and [Frontend](../FE/README.md) documentation.
 
+**Live demo:** [https://ngopooks.duckdns.org/](https://ngopooks.duckdns.org/) — deployed on **AWS**.
+
 ---
 
 ## Contents
@@ -24,5 +26,7 @@ Product-level documentation for Bookstore: what the product does, who it serves,
 | **Market** | Vietnam (VND currency, VNPay payments, Vietnamese address format) |
 | **Platform** | Responsive web application |
 | **Status** | Demo / portfolio project |
+| **Live demo** | [ngopooks.duckdns.org](https://ngopooks.duckdns.org/) |
+| **Hosting** | Deployed on AWS |
 
 ![System architecture](docs/images/bookstore_architecture_v2.png)
