@@ -4,6 +4,8 @@ Product-level documentation for Bookstore: what the product does, who it serves,
 
 **Live demo:** [https://ngopooks.duckdns.org/](https://ngopooks.duckdns.org/) — deployed on **AWS**.
 
+**Video demo:** [YouTube](https://youtu.be/L7ECHvJRw1I?si=ApfslhaT3EHPk5fF)
+
 ![Demo screenshot](docs/images/demo.png)
 
 ---
@@ -29,6 +31,7 @@ Product-level documentation for Bookstore: what the product does, who it serves,
 | **Platform** | Responsive web application |
 | **Status** | Demo / portfolio project |
 | **Live demo** | [ngopooks.duckdns.org](https://ngopooks.duckdns.org/) |
+| **Video demo** | [YouTube](https://youtu.be/L7ECHvJRw1I?si=ApfslhaT3EHPk5fF) |
 | **Hosting** | Deployed on AWS |
 
 ![System architecture](docs/images/bookstore_architecture_v2.png)
