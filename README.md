@@ -20,6 +20,7 @@ Product-level documentation for Bookstore: what the product does, who it serves,
 | [Key Flows](docs/04-key-flows.md) | Sign-in, shopping, checkout, payment, fulfilment, inventory |
 | [Domain Model](docs/05-domain-model.md) | Core business concepts, lifecycles, and glossary |
 | [Quality Attributes](docs/06-quality-attributes.md) | Security, consistency, performance, reliability, testability |
+| [AWS Deployment](docs/07-aws-deployment.md) | Cloud hosting with EC2, S3 media storage, and IAM security |
 
 ## Product Summary
 
